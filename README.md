@@ -1,3 +1,4 @@
+![logo](https://github.com/aliraza2727/Ali-Raza/blob/main/1725880194768.jpg)
 <h1 align="center">Hi 👋, I'm Ali Raza</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliraza2727&label=Profile%20views&color=0e75b6&style=flat" alt="aliraza2727" /> </p>
 
